@@ -1,5 +1,9 @@
 # Penguin Field Notes: exploratory data analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python 3.10 | 3.11](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
+![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-FF4B4B)
+
 Explore body measurements, species differences, missing values and pooled versus within-group correlations.
 
 شرح مختصر بالمصري في [EXPLAIN_AR.md](EXPLAIN_AR.md).
